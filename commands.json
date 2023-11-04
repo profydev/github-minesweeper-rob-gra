@@ -2,6 +2,7 @@
   "commands": [
     "clear H1",
     "clear F8",
-    "clear G8"
+    "clear G8",
+    "clear G7"
   ]
 }
