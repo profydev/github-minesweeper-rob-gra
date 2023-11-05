@@ -18,6 +18,7 @@
     "flag D1",
     "clear E1",
     "clear E2",
-    "clear D1"
+    "clear D1",
+    "unflag D1"
   ]
 }
